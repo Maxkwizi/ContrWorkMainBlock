@@ -1,0 +1,15 @@
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\bin\Debug\net6.0\ContrWork.exe
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\bin\Debug\net6.0\ContrWork.deps.json
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\bin\Debug\net6.0\ContrWork.runtimeconfig.json
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\bin\Debug\net6.0\ContrWork.dll
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\bin\Debug\net6.0\ContrWork.pdb
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.csproj.AssemblyReference.cache
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfoInputs.cache
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfo.cs
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.csproj.CoreCompileInputs.cache
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.dll
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\refint\ContrWork.dll
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.pdb
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ContrWork.genruntimeconfig.cache
+C:\Users\CINV_OZ\Desktop\C#\ContrWork\obj\Debug\net6.0\ref\ContrWork.dll

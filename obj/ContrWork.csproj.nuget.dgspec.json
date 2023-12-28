@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CINV_OZ\\Desktop\\C#\\ContrWork\\ContrWork.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CINV_OZ\\Desktop\\C#\\ContrWork\\ContrWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CINV_OZ\\Desktop\\C#\\ContrWork\\ContrWork.csproj",
+        "projectName": "ContrWork",
+        "projectPath": "C:\\Users\\CINV_OZ\\Desktop\\C#\\ContrWork\\ContrWork.csproj",
+        "packagesPath": "C:\\Users\\CINV_OZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CINV_OZ\\Desktop\\C#\\ContrWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CINV_OZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
